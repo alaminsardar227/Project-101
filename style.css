@@ -1,0 +1,30 @@
+section {
+    display: flex;
+}
+
+body {
+    font-family: 'Sono', sans-serif;
+}
+
+.orange {
+    color: orange;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.half-withd {
+    width: 50%;
+}
+
+.half-withd img {
+    width: 100%;
+}
+
+.link-buttom {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 15px;
+    border-radius: 8px;
+}
