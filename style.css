@@ -1,5 +1,6 @@
-section {
+#are-jun {
     display: flex;
+    padding-bottom: 150px;
 }
 
 body {
@@ -27,4 +28,27 @@ h1 {
     background-image: linear-gradient(orange, tomato);
     padding: 10px 15px;
     border-radius: 8px;
+}
+
+.container-area {
+    background-image: url(images/shapes/7.png);
+    display: flex;
+}
+
+.women-area img {
+    width: 80%;
+    padding-left: 250PX;
+}
+
+.alamin-sardar {
+    padding-left: 400px;
+    padding-right: 50px;
+}
+
+.link-you {
+    background-image: linear-gradient(orange, tomato, blue);
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
 }
