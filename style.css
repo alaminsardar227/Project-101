@@ -1,18 +1,20 @@
 #are-jun {
     display: flex;
     padding-bottom: 150px;
+    padding-left: 20px;
 }
 
 body {
     font-family: 'Sono', sans-serif;
 }
 
+
 .orange {
     color: orange;
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .half-withd {
