@@ -2,6 +2,7 @@
     display: flex;
     padding-bottom: 150px;
     padding-left: 20px;
+    padding-top: 50px;
 }
 
 body {
@@ -53,4 +54,21 @@ h1 {
     border-radius: 8px;
     text-decoration: none;
     color: white;
+}
+
+.al-amin {
+    text-align: center;
+    padding-top: 90px;
+
+}
+
+.sar-dar {
+    text-align: center;
+    padding-left: 265px;
+    padding-right: 265px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 90px;
 }
